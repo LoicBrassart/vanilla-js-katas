@@ -1,8 +1,8 @@
-// Ecrire une variable contenant ton age (number) et une constante contenant ta date de naisance (string)
+// Ecrire une variable contenant ton age (number) et une constante contenant ta date de naissance (string)
 
 // Ecrire un code qui t'affiche ton prénom si ton âge est pair (... Quoi ? Pourquoi pas ?!)
 
-// Ecrire un code qui t'affiche ton prénom si ton âge est pair (... Quoi ? Pourquoi pas ?!)
+// Ecrire un code qui t'affiche ton prénom si ton âge est inférieur à 27, et ton nom dans le cas contraire
 
 // Ecrire un code qui me copie 10 lignes de "Je ne copierai pas du code bêtement" (oui, c'est du recyclage d'exos :p)
 

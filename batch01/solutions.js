@@ -1,4 +1,4 @@
-// Ecrire une variable contenant ton age (number) et une constante contenant ta date de naisance (string)
+// Ecrire une variable contenant ton age (number) et une constante contenant ta date de naissance (string)
 let age = 35;
 const birthDate = `1986/05/02`;
 // console.log(age);
@@ -11,7 +11,7 @@ if (age % 2 === 0) {
   // console.log(firstName);
 }
 
-// Ecrire un code qui t'affiche ton prénom si ton âge est pair
+// Ecrire un code qui t'affiche ton prénom si ton âge est inférieur à 27, et ton nom dans le cas contraire
 const lastName = 'Brassart';
 
 if (age < 27) {
@@ -69,7 +69,7 @@ const loic = {
     } et j'adore ${this.hobbies.join(', ')} !`;
   },
   elevatorSpeech: () => {
-    return "Eh bien, depuis la dernière fois que nous nous sommes vu je me suis lancé dans une reconversion professionnelle pour devenir développeur Web. J'ai commencé ma formation de inq mois à la Wild Code School de Lille, près d'Euratech, et j'apprends à utiliser Javascript, React, Express et MySQL. D'ailleurs je recherche un stage de quatre mois à partir de février 2022. Tiens moi au courant si ta boîte recrute ou si tu entens parler d'une oportunité !";
+    return "Eh bien, depuis la dernière fois que nous nous sommes vu je me suis lancé dans une reconversion professionnelle pour devenir développeur Web. J'ai commencé ma formation de cinq mois à la Wild Code School de Lille, près d'Euratech, et j'apprends à utiliser Javascript, React, Express et MySQL. D'ailleurs je recherche un stage de quatre mois à partir de février 2022. Tiens moi au courant si ta boîte recrute ou si tu entends parler d'une opportunité !";
   },
 };
 // console.log(loic.age);
