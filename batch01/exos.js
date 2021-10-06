@@ -1,24 +1,24 @@
-// Ecrire une variable contenant ton age (number) et une constante contenant ta date de naisance (string)
+// Write a variable containing your age (number) and a constant containing your date of birth (string)
 
-// Ecrire un code qui t'affiche ton prénom si ton âge est pair (... Quoi ? Pourquoi pas ?!)
+// Write a function that displays your first name if your age is even.
 
-// Ecrire un code qui t'affiche ton prénom si ton âge est pair (... Quoi ? Pourquoi pas ?!)
+// Write a function that prints 10 lines of "I won't copy code from stack overflow without understanding it".
 
-// Ecrire un code qui me copie 10 lignes de "Je ne copierai pas du code bêtement" (oui, c'est du recyclage d'exos :p)
+// Write a getToto function which returns me the string "toto"
 
-// Ecrire une fonction getToto qui me renvoie la string "toto"
+// Asign this toto string to a variable
 
-// Ecrire une fonction getTotoArrow qui me renvoie la string "toto", en utilisant la syntaxe fléchée
+// Write a getTotoArrow function which returns me the string "toto", using the arrow syntax
 
-// Ecrire une fonction d6 qui me renvoie un nombre alétoire entre 1 et 6
+// Write a function getRandomNumber which returns me a random number between 1 and 6
 
-// Ecrire une fonction qui me renvoie la somme de deux nombres passés en paramètres
+// Write a function sum, which returns me the sum of two numbers passed in parameters
 
-// Ecris un objet littéral (sans POO) qui te représente: nom, age, sexe, loisirs, ton langage de prédilection, une fonction pour te présenter, une fonction qui récite ton elevator speech
+// Write a object literal (without OOP) that represents you: name, age, sex, hobbies, your preferred language, a function to introduce yourself (display name and age)
 
-/* Ecris une fonction fizzBuzz(num) qui te renvoie:
-  - "fizz" si num est un multiple de 3
-  - "buzz" si num est un multiple de 5
-  - "fizzbuzz" si num est un multiple de 3 et de 5
-  - num dans les autres cas
+/*  Write a fizzBuzz (num) function which returns you:
+  - "fizz" if num is a multiple of 3
+  - "buzz" if num is a multiple of 5
+  - "fizzbuzz" if num is a multiple of 3 and 5
+  - num in other cases
 */
