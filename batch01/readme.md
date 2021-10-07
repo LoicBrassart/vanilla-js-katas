@@ -1,17 +1,19 @@
-# Série n°1 : Fondamentaux
+# Series n°1: Fundamentals
 
-## Notions abordées
+## Concepts covered
 
-- Variables et constantes
-- Types de données
+- Variables and constants
+- Data types
 - Conditions
-- Modulo (reste de division)
-- Boucles
-- Déclarations de fonction
-- Objets littéraux
+- Module (remainder of division)
+- Loops
+- Function declarations
+- Object literals
 
 ## Instructions
 
-- Pour exécuter le fichier, lance la commande suivante: `reset ; node exos.js`
-- N'hésite pas à commenter ton code lorsque tu finis un exercice, afin de ne pas "polluer" ton terminal avec les réponses des exercices précédents
-- Le code servant à **tester** les réponses (les `console.log` eux-mêmes) est commenté dans le fichier `solutions.js`, afin de ne pas polluer le terminal inutilement. Libre à toi de les décommenter pour tester les exercices.
+- To run the file, run the following command: `node exos.js`
+- Do not hesitate to comment on your code when you finish an exercise.
+- Do not watch the solution until you absolute try your best to solve the excercise.
+- Do not check google for solving the excercises. You can check your notes or previous project code.
+- The code used to ** test ** the responses (the `console.log`) is commented out in the` solutions.js` file, so as not to pollute the terminal unnecessarily. You are free to uncomment them to test the exercises.

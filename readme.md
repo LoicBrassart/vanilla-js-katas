@@ -1,8 +1,21 @@
 # Concept
 
-"C'est en forgeant qu'on devient forgeron", dit le proverbe. Ici tu vas devoir répéter ces exercices jusqu'à ce qu'ils te semblent **naturels**.
-Une fois par jour, refais tous les exercices sur lesquels tu ne te sens pas totalement serein. A la pause déjeuner, au soir en rentrant, n'importe quand, mais choisis un créneau dans ta journée et refais les jusqu'à ce que tu les connaisses sur le bout des doigts.
+"The ones that forge are the ones that become a blacksmith", says the proverb. 
 
-Les séries d'exercices sont numérotées, les solutions se trouvent dans le même dossier. **Lis les !** Ce n'est pas un exercice d'algo à proprement parler, mais un exercice de perfectionnement des structures de base du langage. Rapidement tu pourras faire les exercices sans la solution ; Enuite tu les feras sans vraiment y réfléchir. Quand tu en seras là, tu pourras dire que tu connais vraiment la syntaxe de ces exercices.
+Here you will have to repeat these exercises until they feel **natural** to you.
 
-Dans chaque série, tu trouveras un nouveau fichier `readme.md` qui te donnera les instructions pour tester ton code, les notions à connaître, les outils à installer ou des conseils pour aborder les exercices.
+Once a day, redo all the exercises on which you do not feel completely confortable. 
+
+At lunch break, in the evening when you get home, anytime, but choose a niche in your day and do them again until you know them inside out.
+
+The sets of exercises are numbered, the solutions are in the same folder. **Read them!**.
+
+This is not an Algorithm exercise strictly speaking, but an exercise in mastering the basic structures of language. 
+
+Quickly you will be able to do the exercises without the solution; 
+
+Then you will code them without really thinking about it. 
+
+When finish them all, you can say that you really know the syntax of these exercises.
+
+Within this series, you will find a new readme.md per folder which will give you the instructions to test your code, the concepts to know, the tools to install or the advice to approach the exercises.
