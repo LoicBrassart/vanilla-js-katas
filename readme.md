@@ -12,3 +12,5 @@ Dans chaque série, tu trouveras un nouveau fichier `readme.md` qui te donnera l
 - batch01: Fondamentaux
 - batch02: Tableaux
 - batch03: Objets littéraux
+- batch04: Tableaux - Manipulation (merci @indie-rok !)
+- batch05: Manipulation de DOM (merci @indie-rok !)
