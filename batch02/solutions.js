@@ -38,7 +38,7 @@ characterNames.forEach((character) => {
   // console.log(character.toLowerCase());
 });
 
-// Affiche le nombre de personnages dont le nom contient la lettre 'a' (minuscule ou majuscule)
+// Affiche les noms des personnages dont le nom contient la lettre 'a' (minuscule ou majuscule)
 characterNames.forEach((character) => {
   if (character.toLowerCase().includes('a')) {
     // console.log(character);

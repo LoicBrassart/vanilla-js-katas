@@ -24,6 +24,6 @@ const characterNames = [
 
 // Affiche le nom de chaque personnage en minuscules
 
-// Affiche le nombre de personnages dont le nom contient la lettre 'a' (minuscule ou majuscule)
+// Affiche les noms des personnages dont le nom contient la lettre 'a' (minuscule ou majuscule)
 
 // Crée une fonction `search(needle)` qui te renvoie les personnages dont le nom contient la lettre passée en paramètre

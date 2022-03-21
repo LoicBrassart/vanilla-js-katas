@@ -39,7 +39,7 @@ const getTotoArrow = () => {
 
 // Ecrire une fonction d6 qui me renvoie un nombre alétoire entre 1 et 6
 function d6() {
-  return Math.floor(random() * 6 + 1);
+  return Math.floor(Math.random() * 6 + 1);
 }
 /* for (let i = 0; i < 20; i++) {
   console.log(d6());
